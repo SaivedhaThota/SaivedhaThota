@@ -80,7 +80,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivedhathota&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -93,10 +92,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=saivedhathota&theme=tokyonight)
----
 
 ## 👀 Profile Views
 
