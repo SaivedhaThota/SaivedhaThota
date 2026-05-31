@@ -95,17 +95,12 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saivedhathota&theme=tokyonight&margin-w=15" />
-</p>
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=saivedhathota&theme=tokyonight)
 ---
 
 ## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saivedhathota&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+![](https://komarev.com/ghpvc/?username=saivedhathota&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
