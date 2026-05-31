@@ -99,5 +99,5 @@
 ---
 
 <p align="center">
-  <b>✨ Turning Data Into Insights ✨</b>
+  <b>Turning Data Into Insights </b>
 </p>
